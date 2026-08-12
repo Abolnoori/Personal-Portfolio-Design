@@ -2,6 +2,11 @@
 
 طراحی رابط کاربری یک وب‌سایت شخصی مدرن با تمرکز بر تجربه کاربری و طراحی ریسپانسیو.
 
+
+
+https://github.com/user-attachments/assets/461d3462-d269-4e06-8e27-ba619c1adf82
+
+
 ### ✨ ویژگی‌ها
 
 - 🌐 پشتیبانی از دو زبان
@@ -12,28 +17,47 @@
 
 ## 📸 Preview
 
-### ☀️ Light Mode 
-### 🌙 Dark Mode
+### ☀️ Light Mode 🌙 Dark Mode
+<img width="364" height="1016" alt="Screenshot 2026-08-12 164909" src="https://github.com/user-attachments/assets/62bdce8a-488b-4370-ab39-b36aa38deac2" />
+<img width="361" height="1007" alt="image" src="https://github.com/user-attachments/assets/76f48503-8d2a-4f58-b912-bede387be40c" />
 
-<img width="48%" height="1280" alt="IMG_20260812_161205_193" src="https://github.com/user-attachments/assets/521000ad-c6cb-4865-9d5b-34c71be22731" />
+# 🎨 Personal Portfolio — UI/UX Design
+
+طراحی رابط کاربری یک وب‌سایت شخصی مدرن با پشتیبانی از دو زبان و حالت‌های Dark و Light.
+
+## 🌐 بخش‌های وب‌سایت
+
+### 🏠 Hero
+
+![Hero](https://github.com/user-attachments/assets/b6918449-d104-4148-a32b-bc4000ef2ae0)
+
+### 🛠️ Skills
+
+![Skills](https://github.com/user-attachments/assets/7262215a-0f1b-4667-add1-be503893cda3)
+
+### 🚀 Projects
+
+![Projects](https://github.com/user-attachments/assets/9daaf7c1-0d5a-4a40-aa0c-b9f255818348)
+
+### 💼 Services
+
+![Services](https://github.com/user-attachments/assets/b3207a4e-f8d6-4bdc-bd72-9119cbd2686b)
+
+### 🎓 Experience & Education
+
+![Experience & Education](https://github.com/user-attachments/assets/4f72b98d-c462-4ca5-9e8d-93a9b1164176)
+
+### 💬 Comments
+
+![Comments](https://github.com/user-attachments/assets/2fdc0b1f-42cb-4ba4-9c37-2802ec5a6fff)
+
+### 📧 Contact
+
+![Contact](https://github.com/user-attachments/assets/e44748dd-8f36-4615-8cca-8140cb72afee)
 
 
-
-<img width="48%" height="1280" alt="IMG_20260812_161206_938" src="https://github.com/user-attachments/assets/5deaf383-b7de-403f-a4c4-f517b0779bdc" />
-
-### Website sections
-<img width="48%" height="719" alt="IMG_20260812_161204_947" src="https://github.com/user-attachments/assets/8c093940-94cb-4bb5-87b6-306d202c69d6" />
-<img width="48%" height="532" alt="IMG_20260812_161205_652" src="https://github.com/user-attachments/assets/5bebd91d-362f-484e-b4de-25df6e06287b" />
-<img width="48%" height="766" alt="IMG_20260812_161205_087" src="https://github.com/user-attachments/assets/9d5abe26-00ee-4418-ac72-debe8c83d915" />
-<img width="48%" height="622" alt="IMG_20260812_161205_046" src="https://github.com/user-attachments/assets/72238c3d-7f73-4508-9964-636e7bc5023d" />
-<img width="48%" height="716" alt="IMG_20260812_161204_979" src="https://github.com/user-attachments/assets/fd657096-3185-4f8a-883e-89181586cde5" />
-
-
-
-## 🛠️ ابزار
-
+## 🛠️ Design Tool
 `Figma` `UI/UX Design`
+**Figma**
 
-## 🔗 Figma
-
-[مشاهده طراحی در Figma](https://www.figma.com/design/94tF7i4RNBNeWNMBiPgBKu/Untitled?node-id=0-1&p=f&t=1h3B71Bqk9Tl2uwo-0)
+🔗 [مشاهده طراحی در Figma](YOUR-FIGMA-LINK)
