@@ -58,7 +58,6 @@ https://github.com/user-attachments/assets/461d3462-d269-4e06-8e27-ba619c1adf82
 
 ## 🛠️ Design Tool
 `Figma` `UI/UX Design`
+## 🔗 مشاهده طراحی
 
-**Figma**
-
-🔗 [مشاهده طراحی در Figma](YOUR-FIGMA-LINK)
+[🎨 مشاهده پروژه در Figma](https://www.figma.com/design/94tF7i4RNBNeWNMBiPgBKu/Untitled?node-id=0-1&p=f&t=1h3B71Bqk9Tl2uwo-0)
